@@ -1,4 +1,4 @@
-# moo-dify
+# [moo-dify](https://www.youtube.com/watch?v=x2cNAkgejLw&ab_channel=JustinZhang)
 
 Instructions to build project locally:
  - Clone repository: https://github.com/judtinzhang/moodify 
@@ -8,7 +8,6 @@ Instructions to build project locally:
  - Navigate to http://localhost:1234/ to begin!
 
 Note the code used for cleaning/wrangling is in `wrangling.ipynb` and the list of dependencies is in `package.json`.
-
 
 This project will translate the user's text in the following ways:
 - emotions: converts text to embody specifed emotion
